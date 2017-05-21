@@ -1,0 +1,6 @@
+{
+  "master": "localhost",
+  "port": 50070,
+  "fs_location": "/PriorityStore/",
+  "num_workers": 5
+}
